@@ -4,8 +4,10 @@ Mokshith Ch  |,,|
 #include<bits/stdc++.h>
 using namespace std;
 
-#define endl "\n"
+
+
 #define int long long
+#define pb push_back
 #define debug(x) cout<<#x<<": "<<x<<endl;
 #define google cout<<"Case #" << tc << ": ";
  
